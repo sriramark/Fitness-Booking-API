@@ -1,5 +1,6 @@
 # dependencies
 /env
+/venv
 
 # Django specific
 __pycache__
